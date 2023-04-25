@@ -1,1 +1,2 @@
 # reverse_a_string
+Reverse a string: Reversing a string entails switching the last element's location to the first and vice versa for each character.A pallindrome is a string that has the same reverse string as the original string.(Mom, for instance.) For looping a string backwards:-This method uses two variables, one pointing at the first index and the other at the last. We switch the two characters in each step, raise the first variable, and lower the second variable until the first is lower than the second.
